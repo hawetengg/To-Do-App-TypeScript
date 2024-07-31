@@ -20,7 +20,7 @@ You need a web browser to run this application. No other software or dependencie
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/hawetengg/To-do-App.git
+    git clone https://github.com/hawetengg/To-Do-App-TypeScript
     ```
 2. **Navigate to the project directory**:
     ```sh
