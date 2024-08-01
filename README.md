@@ -1,6 +1,48 @@
 # To-Do List App
 
 This is a simple to-do list application that allows you to add, check, edit, and remove tasks.
+# To-Do List App
+
+This is a simple to-do list application that allows you to add, check, edit, and remove tasks.
+## Screenshots
+
+### Main Interface
+![Main Interface](Screenshots/MainInterface.png)
+
+*Screenshot of the main interface*
+
+### Adding a Task
+![Adding a Task](Screenshots/AddTask.png)
+
+*Screenshot showing how to add a new task to the list.*
+### Editing Task Step 1
+![Editing Task Step 1](Screenshots/EditTask.png)
+*This screenshot shows the initial state of the task list before editing. When the edit button is clicked*
+
+### Editing Task Step 2
+![Editing Task Step 2](Screenshots/EditTask(2).png)
+*This screenshot illustrates writing the updated version.*
+
+### Editing Task Step 3
+![Editing Task Step 3](Screenshots/EditTask(3).png)
+*This screenshot demonstrates the task text being modified and saved.*
+
+*Screenshot demonstrating the task editing functionality.*
+### Checking a Task
+![Checking a Task](Screenshots/Markascheck.png)
+
+*Screenshot illustrating how to mark a task as completed.*
+
+### Removing a Task Step 1
+![Removing a Task](Screenshots/RemoveTask.png)
+
+*Screenshot depicting the selection of the task to be deleted*
+
+### Removing a Task Step 2
+![Removing a Task](Screenshots/RemoveTask(2).png)
+
+*Screenshot depicting the removal of a task from the list.*
+
 ## Features
 
 - **Add Task**: Add a new task to the list.
